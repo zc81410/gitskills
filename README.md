@@ -1,4 +1,4 @@
 # gitskills
-function(){
+addforever(a){
     a+=1;s
 },
