@@ -1,4 +1,4 @@
 # gitskills
 function(){
-    b-=1;
+    a+=1;s
 },
